@@ -1,4 +1,4 @@
-## Olá eu sou o Jonas Ramos , Estudando programação 👨‍💻 e cursando Análise e Desenvolvimento de Sistemas 😉 na Estácio 🏫 
+## Jonas Ramos 
 <div align="center">
   <a href="https://github.com/jonasRamosz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonasRamosz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
